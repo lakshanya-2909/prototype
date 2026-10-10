@@ -1,0 +1,6 @@
+{
+  "name": "AuraCraft Prototyping & Testing Studio",
+  "description": "Interactive prototype creation studio for UI/UX designers: wireframe conversion, animated navigation flows, user testing metrics, and design feedback refinement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
